@@ -1,1 +1,1 @@
-# instant-steem
+# steemit-instant
