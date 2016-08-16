@@ -1,0 +1,5 @@
+twx.botapi>=2.1.0
+steem-piston>=0.3.0
+slackclient>=1.0.1
+git+https://github.com/posborne/dbus-python.git
+git+https://github.com/Skype4Py/Skype4Py.git@python3-beta

@@ -1,0 +1,10 @@
+slack:
+   username: slackuser
+   channel: random
+   token: xxxx-0123456789-0123456789-0123456789-0123456789
+   icon_url: https://avatars3.githubusercontent.com/u/20819151?v=3&s=460
+telegram:
+    username: 12341234
+    token: 012345678901234567890
+skype:
+    username: skypeuser
