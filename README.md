@@ -9,7 +9,7 @@ Currently supported messenger clients:
 
 Uses python-steem, Skype4Py, slackclient and twx.botapi.
 
-0.1 ALPHA revision: API can change.
+_0.1 ALPHA revision: API can change._
 
 TODO: add new API, docs, tests, dockerize.
 
@@ -42,5 +42,6 @@ skype:
 
 ## Example usage
 
-python 
-Tested on Ubuntu 14.04 64bit
+Tested on Ubuntu 14.04 LTS 64bit:
+
+
